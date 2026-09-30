@@ -139,6 +139,6 @@ Description: Lunch
 
 ## Author
 
-**Name:** [Your Name]
+**Name:** Bhavy Chauhan
 **Course:** Python Essentials
 **Year:** 2026
