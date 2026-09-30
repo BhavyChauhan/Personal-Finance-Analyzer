@@ -1,6 +1,6 @@
 # Personal Finance Analyzer
 # Python Essentials Course Project
-# Author: Aditya Sharma
+# Author: Bhavy Chauham
 #
 # This program is used to record income and expenses, see where the money
 # is going and calculate how much is saved. All data is stored in a JSON
